@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 50px;
+}
+
+table thead {
+    border-bottom: 1px solid;
+    font-size: 60px !important;
+}
+
+table tbody {
+    font-size: 40px !important;
+}
+
+button { 
+    cursor: pointer;
+}
